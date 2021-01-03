@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2fcba12b-6047-4312-9ded-9e2e380ed1b8" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.eslintcache" beforeDir="false" afterPath="$PROJECT_DIR$/.eslintcache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Firebase/firebase.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/ErroPage/index.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/ErroPage/index.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +49,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1609676235057</updated>
-      <workItem from="1609676236169" duration="11267000" />
+      <workItem from="1609676236169" duration="13675000" />
     </task>
     <task id="LOCAL-00001" summary="feat: &#10;&#10;mise en place des boutons">
       <created>1609682763746</created>
@@ -71,7 +72,14 @@
       <option name="project" value="LOCAL" />
       <updated>1609688362758</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="feat: &#10;&#10;mise en place de la page error">
+      <created>1609692334747</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1609692334747</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -92,6 +100,7 @@
     <MESSAGE value="feat: &#10;&#10;mise en place des boutons" />
     <MESSAGE value="feat: &#10;&#10;Les évènements onMouseOver et onMouseOut" />
     <MESSAGE value="feat: &#10;&#10;import de ract-router-dom&#10;creation de 4 nouveau composent pour login, register, etc...&#10;et creation de liens pour les boutons" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: &#10;&#10;import de ract-router-dom&#10;creation de 4 nouveau composent pour login, register, etc...&#10;et creation de liens pour les boutons" />
+    <MESSAGE value="feat: &#10;&#10;mise en place de la page error" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: &#10;&#10;mise en place de la page error" />
   </component>
 </project>
