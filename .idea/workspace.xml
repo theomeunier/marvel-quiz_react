@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2fcba12b-6047-4312-9ded-9e2e380ed1b8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/components/Firebase/firebase.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Firebase/index.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.eslintcache" beforeDir="false" afterPath="$PROJECT_DIR$/.eslintcache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,6 +13,11 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="tion" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1mYh3l4qfUr0ZyGJRGj4BXHi3Zr" />
@@ -27,13 +32,16 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
     <property name="node.js.path.for.package.tslint" value="project" />
-    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.eslint" value="" />
+    <property name="node.js.selected.package.standard" value="" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="yarn" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.CommitDialog" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -49,7 +57,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1609676235057</updated>
-      <workItem from="1609676236169" duration="13675000" />
+      <workItem from="1609676236169" duration="15093000" />
     </task>
     <task id="LOCAL-00001" summary="feat: &#10;&#10;mise en place des boutons">
       <created>1609682763746</created>
@@ -79,7 +87,14 @@
       <option name="project" value="LOCAL" />
       <updated>1609692334747</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="feat: &#10;&#10;configuration de notre application firebase">
+      <created>1609699656742</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1609699656742</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -101,6 +116,7 @@
     <MESSAGE value="feat: &#10;&#10;Les évènements onMouseOver et onMouseOut" />
     <MESSAGE value="feat: &#10;&#10;import de ract-router-dom&#10;creation de 4 nouveau composent pour login, register, etc...&#10;et creation de liens pour les boutons" />
     <MESSAGE value="feat: &#10;&#10;mise en place de la page error" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: &#10;&#10;mise en place de la page error" />
+    <MESSAGE value="feat: &#10;&#10;configuration de notre application firebase" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: &#10;&#10;configuration de notre application firebase" />
   </component>
 </project>
